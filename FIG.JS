@@ -10,3 +10,9 @@ for(let i = 0; i< buttonNavbar.length;i++){
   })
 
 }
+
+// start AOS for animation
+AOS.init({
+  duration: 700, // مدة الحركة بالميلي ثانية (اختياري)
+});
+// End AOS for animation
